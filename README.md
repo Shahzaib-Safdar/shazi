@@ -1,0 +1,2 @@
+# shazi
+Coding is everything.
